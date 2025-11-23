@@ -5,7 +5,7 @@ The data utilized in this study were gathered from Hugging Face, which is the co
 # Computation
 For computational needs, we used Google Colab Pro+ equipped with a TPU v2–8 accelerator to run all experiments
 
-#Dataset Citation
+# Dataset Citation
 @inproceedings{hasan-etal-2021-xl,
     title = "{XL}-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages",
     author = "Hasan, Tahmid  and
